@@ -1,2 +1,2 @@
-# cfu
-My university projects
+# Projects of my university
+
