@@ -16,5 +16,5 @@ I created this repository to track my academic progress. This repository contain
 
 <h5 align="center">Welcome to my Student's Knowledge Base:<h5>
 <div align="center">
-<a href="https://github.com/DaniilStestyuk/cfu/blob/main/Knowledge-Base.md"><img width="100" align="center" src="https://cdn2.iconfinder.com/data/icons/computer-science-outline/60/Learn_Computer_Science-degree-computer-science-512.png"><a>
+<a href="https://github.com/DaniilStestyuk/cfu/blob/main/Knowledge-Base.md"><img width="100" align="center" src="https://prmyazilim.com/images/PRM/knowledgebase.png"><a>
 </div>
