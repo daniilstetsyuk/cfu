@@ -46,3 +46,24 @@
 * [А.И.Мальцев "Основы линейной алгебры"](https://vk.com/doc132074058_589601885)
 
 #### Science Articles:
+
+## Elementary mathematics
+
+<h4>Lectures:<h4>
+<a href=""><img width="100" align="center" src="https://findicons.com/files/icons/2781/google_jfk_icons/256/notebook.png"><a>
+
+#### Books:
+* [[С] Система тренировочных задач](https://vk.com/doc132074058_591607044)
+* [[800+] Сборник типовых заданий ЕГЭ](https://vk.com/doc132074058_591606999)
+* [А.И.Мальцев "Основы линейной алгебры"](https://vk.com/doc132074058_589601885)
+
+#### Science Articles:
+
+## English
+
+#### Books:
+* ["Essential Grammar in Use" R.Murphy](http://xn--webducation-dbb.com/wp-content/uploads/2018/01/Essential-Grammar-in-Use-4th-Edition-by-R.-Murphy.pdf)
+* ["English Grammar in Use" R. Murphy](https://vk.com/doc132074058_591604750)
+* ["Английский язык для математиков" Шаншиева](https://vk.com/doc132074058_591608002)
+
+#### Science Articles:
