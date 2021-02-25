@@ -1,0 +1,30 @@
+== Integration (Интегрирование)
+
+
+
+=== Table of integrals (Таблица интегралов)
+
+1. latexmath:[\int 0dx = С]
+2. latexmath:[\int \frac{1}{x} dx = \ln |x| + C]
+3. latexmath:[\int x^\alpha dx = \frac{x^{\alpha+1}}{\alpha+1} + С]
+4. latexmath:[\int a^x dx = \frac{a^x}{ln a} + С]
+5. latexmath:[\int \sin x dx = - \cos x + С]
+6. latexmath:[\int \cos x dx = \sin x + С]
+7. latexmath:[\int \frac{1}{cos^2 x} dx = \tan x + С]
+8. latexmath:[\int \frac{1}{sin^2 x} dx = - \cot x + С]
+9. latexmath:[\int \frac{1}{\sqrt{1-x^2}} dx = \arcsin x + С]
+10. latexmath:[\int \frac{1}{\sqrt{1-x^2}} dx = - \arccos x + С]
+11. latexmath:[\int \frac{1}{1+x^2} dx = \arctan x + С]
+12. latexmath:[\int \frac{1}{1+x^2} dx = - arccot x + С]
+13. latexmath:[\int ch x dx = sh x + С]
+14. latexmath:[\int sh x dx = ch x + С]
+15. latexmath:[\int \frac {1}{ch^2x} dx = th x + С]
+16. latexmath:[\int \frac {1}{sh^2x} dx = cth x + С]
+17. latexmath:[\int \frac {1}{\sqrt{x^2-1}} dx = ln |x+\sqrt{x^2-1}| + С]
+18. latexmath:[\int \frac {1}{x^2-1} dx = \frac {1}{2} ln |\frac {x-1}{x+1}| + С]
+
+=== Integration methods
+
+1. latexmath:[\int (f \pm g)dx = \int fdx \pm \int gdx]
+2. latexmath:[\int C * fdx = C * \int fdx]
+
