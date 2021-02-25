@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?asciidoc-toc?><?asciidoc-numbered?><article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Integration (Интегрирование)</title>
+<date>2021-02-25</date>
+</info>
+<section xml:id="_integration_интегрирование">
+<title>Integration (Интегрирование)</title>
+<section xml:id="_table_of_integrals_таблица_интегралов">
+<title>Table of integrals (Таблица интегралов)</title>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/e5c055188cd1d187834dd373ac913c16.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/773b9b6f43961df70efff532e37cae47.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/04a059c2b279eab9e249e899db22420c.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/4146c93a51441122d33488308ab8585d.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/e7e229194f71f4f61e5bfb4c81837cf3.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/fe927b5999d39449e104125102a8d531.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/acf324e13b3fa0737c7b56b58db897c6.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/988d4c10ac2d967d90ef1e1f48d2832f.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/e4912d0c93f146679e591e97493a312e.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/9dc71dd6363c03e88ba39833e3a8cc08.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/f56616e9bce1ef886b658addc4f0fd20.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/be5c3943ab236b6a9ae3213d42a2fd52.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/59dd14221ffa1306320ab48d239c63a3.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/2892ede4e0dae47bfbfab11381ea38d7.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/fe62b06865ff59514d94816490701181.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/0d876f98d033ae93a1665d7dfbe0ebcf.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/e4346e8c7100bfb14235d6a87b4809ef.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/8efc185c93e88c7c944675cdf83b6eba.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+</orderedlist>
+</section>
+<section xml:id="_integration_methods">
+<title>Integration methods</title>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/ccdedfc0c7b3796229ad263e19c3042a.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+<listitem>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="http://localhost:52389/afx/cache/fd8632208ee412adebfb53c4b61cc90e.png"/>
+</imageobject>
+<textobject><phrase>alt</phrase></textobject>
+</inlinemediaobject></simpara>
+</listitem>
+</orderedlist>
+</section>
+</section>
+</article>
